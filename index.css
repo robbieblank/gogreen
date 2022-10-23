@@ -1,0 +1,147 @@
+.dartmouth{
+    background-color: #00693e;
+    text-align: center !important;
+}
+.is-ancestor{
+   
+    flex-wrap: wrap;
+    justify-content: center !important;
+    align-items: center;
+    margin: auto !important;
+}
+
+.mainpagephoto
+{
+  
+    height: 128px !important;
+    object-fit:contain;
+}
+
+#like{
+    height: 20px;
+}
+
+.box.tile{
+   align-items: center !important;
+    justify-content: center !important;
+    
+    
+ 
+        text-align:center !important;
+        display:block !important;
+        float:left!important;
+        cursor: pointer;
+    
+}
+
+.box.tile figure img{
+    
+    margin-left: auto;
+    margin-right: auto;
+}
+
+     
+     
+ 
+ 
+
+
+#mainpageheader{
+    border-bottom-style: solid;
+    border-color: rgb(222, 222, 222);
+    border-width: 5px;
+}
+
+#topLeftLogo{
+margin-top: 1%;
+    height: 15% ;
+}
+
+
+  
+   
+
+
+#topHero{
+    padding-left: 1% !important;
+    padding-bottom: 1% !important;
+    padding-top: 1.5% !important;
+}
+.daliLogo{
+    width: 10% !important;
+    height: 10% !important;
+    padding-bottom: none;
+    float:left !important;
+}
+
+
+
+#navigationbartop
+{
+    float: right;
+    padding-left: 10%;
+}
+
+.modal-card-foot{
+    display: flex;
+}
+
+
+#search
+{
+   width: 50% !important;
+}
+
+.navbarMenu{
+    justify-items: center !important;
+}
+
+
+.centerLogo img{
+    position: absolute;
+    left: 50%;
+    padding-top: 3%;
+    transform: translate(-50%, -50%);
+    height: 15% !important;
+  }
+
+  .navbar-menu
+  {
+    display: block !important;
+    box-shadow: none !important;
+  }
+
+  .box {
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+
+  .is-5{
+    font-weight: 600 !important;
+  }
+
+
+body{
+    font-family: Circular, sans-serif !important;
+}
+.custom-boxes.box:last-child { margin-bottom: 1.5rem; }
+
+.hidden{
+    display: none !important;
+}
+
+#mainBody{
+    align-items: center !important;
+    justify-content: center !important;
+    
+    
+ 
+        text-align:center !important;
+        display:block !important;
+}
+
+.dropdown{
+    padding-bottom: 20px;
+   
+}
+
